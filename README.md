@@ -40,15 +40,15 @@ Git (for cloning the repository)
 Installation & Setup
 
 1. Clone the Repository
-git clone <your-repository-url>
+git clone https://github.com/Shivprasadcp/FeedTracK.git
 cd FeedTracK
 
-2. Install Backend Dependencies
-cd backend
+2. Install Backend Dependencies :
+cd backend , 
 npm install
 
 3. Install Frontend Dependencies
-cd ../frontend
+cd ../frontend ,
 npm install
 
 Running the Application :
@@ -56,12 +56,12 @@ Running the Application :
 You need to run both the backend server and frontend development server simultaneously.
 Method 1: Using Two Terminal Windows
 Terminal 1 - Start Backend Server:
-cd backend
+cd backend , 
 npm run dev
 
 The backend server will start on http://localhost:5555
 
 Terminal 2 - Start Frontend Development Server:
-cd frontend
+cd frontend ,
 npm run dev
 The frontend will start on http://localhost:5173 (or another available port)
