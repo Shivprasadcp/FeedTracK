@@ -1,0 +1,37 @@
+[
+  {
+    "id": "abc123",
+    "name": "Rohit Sharma",
+    "email": "rohit.sharma@example.com",
+    "message": "I recently raised a claim for my health insurance, and I was extremely satisfied with the quick response from your team. The claim was approved within two days, and the customer support staff made sure I was updated about every step. It was truly a stress-free experience.",
+    "votes": 3
+  },
+  {
+    "id": "def456",
+    "name": "Priya Iyer",
+    "email": "priya.iyer@example.com",
+    "message": "I am very happy with the life insurance policy I purchased from your company. The policy coverage and benefits were explained to me in detail by your agent, which helped me make the right decision for my family’s future security.",
+    "votes": 6
+  },
+  {
+    "id": "ghi789",
+    "name": "Amit Verma",
+    "email": "amit.verma@example.com",
+    "message": "I’ve been a customer for the last three years, and I must say your motor insurance claim process is one of the smoothest. Last month when my car met with an accident, the claim settlement and cashless repair facility were quick and efficient.",
+    "votes": 2
+  },
+  {
+    "id": "jkl012",
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor@example.com",
+    "message": "Your customer service is exceptional. I had some doubts regarding my term insurance plan, and your representative patiently clarified all my queries. I now feel much more confident about my choice of insurance policy.",
+    "votes": 8
+  },
+  {
+    "id": "37e82b11-63e4-4a8e-b5ba-3ec59eb80df5",
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "message": "The mobile app and online portal are very easy to use. I was able to renew my health insurance policy in just a few clicks. The process was quick and transparent, and I even received the updated policy document instantly.",
+    "votes": 4
+  }
+]
